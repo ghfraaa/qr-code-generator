@@ -11,3 +11,10 @@
     <img src="https://i.imgur.com/vYhTdeD.png" width="800" alt="Screenshot Website">
 </p>
 
+<p align="center">
+    <img src="https://i.imgur.com/dtOgfJl.png" width="800" alt="Screenshot Website">
+</p>
+
+<p align="center">
+    <img src="https://i.imgur.com/vcbfwee.png" width="800" alt="Screenshot Website">
+</p>
