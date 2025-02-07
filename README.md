@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-    <img src="https://imgur.com/a/fdV2fNZ" width="800" alt="Screenshot Website">
+    <img src="https://i.imgur.com/vYhTdeD.png" width="800" alt="Screenshot Website">
 </p>
 
