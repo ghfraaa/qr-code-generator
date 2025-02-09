@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# QR Code Generator 🎀
+
+A simple and stylish QR Code Generator with a pink-themed UI. Convert text or URLs into QR Codes effortlessly and download them in PNG format.
+
+## ✨ Features  
+- Generate QR Code from text or URL  
+- Choose QR Code size (Small, Medium, Large)  
+- Download QR Code as PNG  
+- Beautiful pink-themed design  
+
 <p align="center">
     <img src="https://i.imgur.com/vYhTdeD.png" width="800" alt="Screenshot Website">
 </p>
