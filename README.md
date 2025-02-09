@@ -17,6 +17,25 @@ A simple and stylish QR Code Generator with a pink-themed UI. Convert text or UR
 - Download QR Code as PNG  
 - Beautiful pink-themed design  
 
+## 🛠️ Instalasi dan Menjalankan Project
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan project ini di lokal Anda:
+1. Clone Repository
+
+git clone https://github.com/ghfraaa/qr-code-generator.git
+cd qr-code-generator
+
+2. Instal Dependensi
+
+npm install
+
+3. Jalankan Aplikasi
+
+npm run dev
+
+Aplikasi akan berjalan di http://localhost:3000.
+
+## 📸 Screenshot
+
 <p align="center">
     <img src="https://i.imgur.com/vYhTdeD.png" width="800" alt="Screenshot Website">
 </p>
